@@ -16,4 +16,4 @@ CLIENT:
 * Be able to search the recipe they want.
 * Be able to comment about the recipe.
 * Be able to favorite the recipe.
-* Be able to add recipes.
+
